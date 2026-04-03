@@ -1160,7 +1160,7 @@ export default function Portfolio() {
                     <Building2 size={32} className="text-white" />
                   </div>
                   <div>
-                    <h3 className="text-2xl font-bold">Software Engineer</h3>
+                    <h3 className="text-2xl font-bold">Web developer</h3>
                     <p className="text-blue-400 font-semibold">Sutherland Global Services</p>
                   </div>
                 </div>
